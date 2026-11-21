@@ -2,6 +2,8 @@
 
 Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhaumikb07/)
 
+📓 **Pattern notes:** [PATTERNS.md](PATTERNS.md) — what each solved problem taught me, grouped by pattern (HashMap, Two Pointers, Sliding Window, Stack).
+
 ## Progress
 
 **Total solved: 10** (Easy 5 / Medium 5 / Hard 0) — last verified 2026-11-20
