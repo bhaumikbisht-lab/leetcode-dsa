@@ -2,11 +2,9 @@
 
 Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhaumikb07/)
 
-📓 **Pattern notes:** [PATTERNS.md](PATTERNS.md) — what each solved problem taught me, grouped by pattern (HashMap, Two Pointers, Sliding Window, Stack).
-
 ## Progress
 
-**Total solved: 10** (Easy 5 / Medium 5 / Hard 0) — last verified 2026-11-20
+**Total solved: 15** (Easy 7 / Medium 8 / Hard 0) — last verified 2026-11-21
 
 | # | Problem | Topic | Difficulty | LeetCode |
 |---|---------|-------|------------|----------|
@@ -20,7 +18,13 @@ Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhau
 | 8 | Longest Substring Without Repeating Characters | Sliding Window | Medium | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | 9 | Container With Most Water | Two Pointers | Medium | https://leetcode.com/problems/container-with-most-water/ |
 | 10 | 3Sum | Two Pointers | Medium | https://leetcode.com/problems/3sum/ |
+| 11 | Min Stack | Stack | Easy | https://leetcode.com/problems/min-stack/ |
+| 12 | Linked List Cycle | Linked List | Easy | https://leetcode.com/problems/linked-list-cycle/ |
+| 13 | Daily Temperatures | Stack (Monotonic) | Medium | https://leetcode.com/problems/daily-temperatures/ |
+| 14 | Remove Nth Node From End of List | Linked List | Medium | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
+| 15 | Add Two Numbers | Linked List | Medium | https://leetcode.com/problems/add-two-numbers/ |
 
-Status: **All 10 Accepted on LeetCode** in live sessions on 2026-11-20 and verified on the public profile (10 problems solved, Python3).
-Day 1 submissions: Two Sum 2199678509, Contains Duplicate 2199678876, Group Anagrams 2199679379, Valid Palindrome 2199679936, Two Sum II 2199680519.
-Day 2 submissions: Best Time to Buy and Sell Stock 2200148700, Valid Parentheses 2200150114, Longest Substring Without Repeating Characters 2200151482, Container With Most Water 2200153157, 3Sum 2200154823.
+Status: **All 15 Accepted on LeetCode** in live sessions and verified on the public profile (15 problems solved, Python3).
+Day 1 submissions (2026-11-20): Two Sum 2199678509, Contains Duplicate 2199678876, Group Anagrams 2199679379, Valid Palindrome 2199679936, Two Sum II 2199680519.
+Day 2 submissions (2026-11-20): Best Time to Buy and Sell Stock 2200148700, Valid Parentheses 2200150114, Longest Substring Without Repeating Characters 2200151482, Container With Most Water 2200153157, 3Sum 2200154823.
+Day 3 submissions (2026-11-21): Min Stack 2200725044, Linked List Cycle 2200726934, Daily Temperatures 2200729077, Remove Nth Node From End of List 2200731035, Add Two Numbers 2200734264.
