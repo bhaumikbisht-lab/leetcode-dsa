@@ -4,7 +4,7 @@ Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhau
 
 ## Progress
 
-**Total solved: 25** (Easy 10 / Medium 15 / Hard 0) — last verified 2026-11-23
+**Total solved: 30** (Easy 12 / Medium 18 / Hard 0) — last verified 2026-11-25
 
 | # | Problem | Topic | Difficulty | LeetCode |
 |---|---------|-------|------------|----------|
@@ -33,11 +33,17 @@ Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhau
 | 23 | Binary Tree Level Order Traversal | Trees | Medium | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
 | 24 | Validate Binary Search Tree | Trees | Medium | https://leetcode.com/problems/validate-binary-search-tree/ |
 | 25 | Kth Smallest Element in a BST | Trees | Medium | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
+| 26 | Find if Path Exists in Graph | Graphs | Easy | https://leetcode.com/problems/find-if-path-exists-in-graph/ |
+| 27 | Find the Town Judge | Graphs | Easy | https://leetcode.com/problems/find-the-town-judge/ |
+| 28 | Number of Islands | Graphs | Medium | https://leetcode.com/problems/number-of-islands/ |
+| 29 | Clone Graph | Graphs | Medium | https://leetcode.com/problems/clone-graph/ |
+| 30 | Course Schedule | Graphs | Medium | https://leetcode.com/problems/course-schedule/ |
 
-Status: **All 25 Accepted on LeetCode** in live sessions and verified on the public profile (25 problems solved, Python3).
+Status: **All 30 Accepted on LeetCode** in live sessions and verified on the public profile (30 problems solved, Python3).
 Day 1 submissions (2026-11-20): Two Sum 2199678509, Contains Duplicate 2199678876, Group Anagrams 2199679379, Valid Palindrome 2199679936, Two Sum II 2199680519.
 Day 2 submissions (2026-11-20): Best Time to Buy and Sell Stock 2200148700, Valid Parentheses 2200150114, Longest Substring Without Repeating Characters 2200151482, Container With Most Water 2200153157, 3Sum 2200154823.
 Day 3 submissions (2026-11-21): Min Stack 2200725044, Linked List Cycle 2200726934, Daily Temperatures 2200729077, Remove Nth Node From End of List 2200731035, Add Two Numbers 2200734264.
 Day 4 submissions (2026-11-22): Binary Search 2201423962, Search Insert Position 2201425315, Find First and Last Position 2201429830, Search in Rotated Sorted Array 2201434076, Find Minimum in Rotated Sorted Array 2201435257.
 Day 5 submissions (2026-11-23): Invert Binary Tree 2201938148, Maximum Depth of Binary Tree 2201938951, Binary Tree Level Order Traversal 2201941029, Validate Binary Search Tree 2201943230, Kth Smallest Element in a BST 2201944194.
+Day 6 submissions (2026-11-25): Find if Path Exists in Graph 2203239895, Find the Town Judge 2203241624, Number of Islands 2203245116, Clone Graph 2203247327, Course Schedule 2203250088.
 Note: Min Stack is Medium on LeetCode — the Easy/Medium split above reflects LeetCode's own difficulty labels (corrected 2026-11-22).
