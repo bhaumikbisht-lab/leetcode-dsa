@@ -4,7 +4,7 @@ Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhau
 
 ## Progress
 
-**Total solved: 40** (Easy 15 / Medium 25 / Hard 0) — last verified 2026-11-26
+**Total solved: 45** (Easy 16 / Medium 29 / Hard 0) — last verified 2026-11-27
 
 | # | Problem | Topic | Difficulty | LeetCode |
 |---|---------|-------|------------|----------|
@@ -48,8 +48,13 @@ Daily DSA practice in Python. LeetCode: [bhaumikb07](https://leetcode.com/u/bhau
 | 38 | Unique Paths | DP | Medium | https://leetcode.com/problems/unique-paths/ |
 | 39 | Word Break | DP | Medium | https://leetcode.com/problems/word-break/ |
 | 40 | Longest Common Subsequence | DP | Medium | https://leetcode.com/problems/longest-common-subsequence/ |
+| 41 | N-th Tribonacci Number | DP | Easy | https://leetcode.com/problems/n-th-tribonacci-number/ |
+| 42 | Decode Ways | DP | Medium | https://leetcode.com/problems/decode-ways/ |
+| 43 | House Robber II | DP | Medium | https://leetcode.com/problems/house-robber-ii/ |
+| 44 | Unique Paths II | DP | Medium | https://leetcode.com/problems/unique-paths-ii/ |
+| 45 | Edit Distance | DP | Medium | https://leetcode.com/problems/edit-distance/ |
 
-Status: **All 40 Accepted on LeetCode** in live sessions and verified on the public profile (40 problems solved, Python3).
+Status: **All 45 Accepted on LeetCode** in live sessions and verified on the public profile (45 problems solved, Python3).
 Day 1 submissions (2026-11-20): Two Sum 2199678509, Contains Duplicate 2199678876, Group Anagrams 2199679379, Valid Palindrome 2199679936, Two Sum II 2199680519.
 Day 2 submissions (2026-11-20): Best Time to Buy and Sell Stock 2200148700, Valid Parentheses 2200150114, Longest Substring Without Repeating Characters 2200151482, Container With Most Water 2200153157, 3Sum 2200154823.
 Day 3 submissions (2026-11-21): Min Stack 2200725044, Linked List Cycle 2200726934, Daily Temperatures 2200729077, Remove Nth Node From End of List 2200731035, Add Two Numbers 2200734264.
@@ -58,4 +63,5 @@ Day 5 submissions (2026-11-23): Invert Binary Tree 2201938148, Maximum Depth of 
 Day 6 submissions (2026-11-25): Find if Path Exists in Graph 2203239895, Find the Town Judge 2203241624, Number of Islands 2203245116, Clone Graph 2203247327, Course Schedule 2203250088.
 Day 7 submissions (2026-11-25): Climbing Stairs 2203422690, Min Cost Climbing Stairs 2203424429, House Robber 2203426012, Longest Increasing Subsequence 2203428782, Coin Change 2203432758.
 Day 8 submissions (2026-11-26): Fibonacci Number 2203988766, Maximum Subarray 2203990196, Unique Paths 2203991637, Word Break 2203993552, Longest Common Subsequence 2203995758.
+Day 9 submissions (2026-11-27): N-th Tribonacci Number 2204594265, Decode Ways 2204595789, House Robber II 2204597125, Unique Paths II 2204598685, Edit Distance 2204601789.
 Note: Min Stack is Medium on LeetCode — the Easy/Medium split above reflects LeetCode's own difficulty labels (corrected 2026-11-22). Maximum Subarray is also Medium on LeetCode, not Easy (corrected 2026-11-26 after GraphQL verification).
